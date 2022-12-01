@@ -43,7 +43,7 @@ export default function Main() {
       <p className="list-body--content">
         <b>A</b>t this factor in time, the corporation adoption of React is so
         excessive that it’s feasible to mention with the self-belief that React
-        isn't always only a trend. From <b>Facebook</b> to <b>Netflix</b>
+        isn't always only a trend. From <b>Facebook</b> to <b>Netflix</b> 
         to Khan Academy, there are heaps of excessive-profile organizations
         which have efficiently followed React and used it to create hugely hit
         virtual products.

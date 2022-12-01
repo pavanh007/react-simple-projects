@@ -44,13 +44,12 @@ margin-right:7px ;
   color:#deebf1;
 }
 
-.items-list > li::marker {
-  font-size: 1.4rem;
-  color: #fdfeff;
+.Main > li::marker {
+  font-size: 1.8rem;
+  color: #24aed4;
 }
 
 .Main {
-  background-image: url('.././public/logo512.png');
   background-repeat: no-repeat;
   background-position: right 25%;
   image-resolution:initial ;
@@ -60,6 +59,7 @@ margin-right:7px ;
       text-align: justify;
       text-justify: auto;
       padding: 12px 40px 12px 20px;
+      box-shadow: 10px 5px 5px #24aed4;
 }
 
 
